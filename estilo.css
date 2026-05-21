@@ -1,0 +1,36 @@
+/* * CSS Personalizado para o PDF do Currículo 
+ */
+
+/* Define as margens da página inteira. 
+   Valores comuns são em cm (centímetros) ou px (pixels).
+   Ajuste os valores conforme sua necessidade. */
+@page {
+    margin: 0.34cm; 
+}
+
+/* Define o estilo principal para todo o documento.
+   É aqui que você pode diminuir o tamanho da fonte globalmente.
+   'pt' (pontos) é uma boa unidade para impressão. O padrão costuma ser 12pt. */
+body {
+    font-family: Arial, sans-serif; /* Mantém uma fonte limpa e profissional */
+    font-size: 7pt;               /* <<< AJUSTE AQUI O TAMANHO DA FONTE PRINCIPAL */
+    line-height: 1.2;              /* Reduz o espaçamento entre as linhas para economizar espaço */
+}
+
+/* Ajusta o tamanho dos títulos (ex: "Resumo Profissional", "Experiência...") 
+   Mantenha-o um pouco maior que o texto do corpo. */
+h3 {
+    font-size: 12pt; /* <<< AJUSTE AQUI O TAMANHO DOS TÍTULOS */
+    margin-top: 10px;  /* Reduz o espaço acima dos títulos */
+    margin-bottom: 5px; /* Reduz o espaço abaixo dos títulos */
+}
+
+/* Reduz o espaço extra das listas (usadas na experiência profissional) */
+ul {
+    padding-left: 20px; /* Diminui a indentação da lista */
+}
+
+/* Garante que o espaçamento entre os itens da lista não seja muito grande */
+li {
+    margin-bottom: 4px;
+}
