@@ -7,14 +7,14 @@
 
 ## Professional Summary
 
-**Electrical Engineer** with solid experience in *electronic hardware testing*, validation, and component-level maintenance. Extensive international experience in technical support and P&D, working in direct collaboration with foreign manufacturers to optimize products and develop automation scripts. Specialist in fault diagnosis (*diagnosing failures*, *debugging*, and *troubleshoot circuit issues*) using advanced laboratory instruments in critical energy environments. Strong background in *Research and Development* (R&D), combining the design of *Power electronics*, *complex PCBA design*, and *Embedded firmware* applied to the *product development* and validation of **IoT devices**, using *Python scripting* tools for test automation, calibration, and statistical data analysis.
+**Electrical Engineer** with solid experience in *electronic hardware testing*, validation, and component-level maintenance. Extensive international experience in technical support and P&D, working in direct collaboration with foreign manufacturers to optimize products and develop automation scripts. Specialist in fault diagnosis (*diagnosing failures*, *debugging*, and *troubleshoot circuit issues*) using advanced laboratory instruments in critical energy environments. Strong background in *Research and Development* (R&D), combining the design of *Power electronics*, *PCBA design*, and *Embedded firmware* applied to the *product development* and validation of **IoT devices**, using *Python scripting* tools for test automation, calibration, and statistical data analysis.
 
 ## Technical Skills (Hard Skills)
 
 * **Hardware Testing & Validation:** Development of *hardware validation* plans, *signal integrity*, *power loading* tests, *compliance testing*, *PCB design validation*, root cause analysis, and testing of advanced protocols (IEC 61850 Sample Values).
 * **Automation & Scripting:** *Python scripting* applied to test automation, data processing, and laboratory process optimization. System *test automation* (Cypress, stress, and volume testing).
 * **Lab Equipment:** *Oscilloscopes*, *Logic analyzers*, *Signal generators*, precision *Multimeters*, *programmable power supplies*, LCR meters, heat guns, and secondary injection test sets (Vebko AMT).
-* **PCBA Design & Electronics:** *Complex PCBA design* using *EDA tools* (Altium Designer, EasyEDA - familiarity with workflows transferable to Orcad/Mentor), routing, *Analog, digital, and power electronics*, circuit simulation (*LTspice*), and rigorous component specification.
+* **PCBA Design & Electronics:** *PCBA design* using *EDA tools* (Altium Designer, EasyEDA - familiarity with workflows transferable to Orcad/Mentor), routing, *Analog, digital, and power electronics*, circuit simulation (*LTspice*), and rigorous component specification.
 * **Firmware & Software:** *Embedded firmware* in C/C++, *Microcontrollers* (ESP32, STM32), **IoT devices** architecture, wireless communication (Bluetooth), *In-circuit emulators*, MATLAB/Simulink, Git/GitHub.
 
 ## Languages
@@ -46,7 +46,7 @@
 *Senior Thesis (TCC) | Electrical Engineering*
 
 * R&D project focused on *Power electronics*, covering the complete hardware development cycle, from rigorous component selection to advanced simulations in **LTspice** and practical bench validation tests.
-* Executed *complex PCBA design* and advanced routing using **Altium Designer**, incorporating *EMI/EMC* considerations for high-current switching, with physical board fabrication via CNC router.
+* Executed *PCBA design* and advanced routing using **Altium Designer**, incorporating *EMI/EMC* considerations for high-current switching, with physical board fabrication via CNC router.
 * Developed *embedded firmware* programmed in C++ for **ESP32** microcontrollers, structuring the system with an **IoT devices** architecture by integrating the **Bluetooth** communication protocol for wireless remote control and real-time telemetry monitoring of motor rotation indices.
 * Performed bench testing, *debugging*, and *troubleshooting* of the printed circuit board using *oscilloscopes*, *signal generators*, and measuring instruments to validate torque and speed stability under wireless control.
 
