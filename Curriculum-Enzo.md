@@ -7,14 +7,14 @@
 
 ## Professional Summary
 
-**Electrical Engineer** with solid experience in *electronic hardware testing*, validation, and component-level maintenance. Extensive international experience in technical support and P&D, working in direct collaboration with foreign manufacturers to optimize products and develop automation scripts. Specialist in fault diagnosis (*diagnosing failures*, *debugging*, and *troubleshoot circuit issues*) using advanced laboratory instruments in critical energy environments. Strong background in *Research and Development* (R&D), combining the design of *Power electronics*, *PCB layouts*, and *Embedded firmware* applied to the development and validation of **IoT devices**, using *Python scripting* tools for test automation, calibration, and statistical data analysis.
+**Electrical Engineer** with solid experience in *electronic hardware testing*, validation, and component-level maintenance. Extensive international experience in technical support and P&D, working in direct collaboration with foreign manufacturers to optimize products and develop automation scripts. Specialist in fault diagnosis (*diagnosing failures*, *debugging*, and *troubleshoot circuit issues*) using advanced laboratory instruments in critical energy environments. Strong background in *Research and Development* (R&D), combining the design of *Power electronics*, *complex PCBA design*, and *Embedded firmware* applied to the *product development* and validation of **IoT devices**, using *Python scripting* tools for test automation, calibration, and statistical data analysis.
 
 ## Technical Skills (Hard Skills)
 
 * **Hardware Testing & Validation:** Development of *hardware validation* plans, *signal integrity*, *power loading* tests, *compliance testing*, *PCB design validation*, root cause analysis, and testing of advanced protocols (IEC 61850 Sample Values).
 * **Automation & Scripting:** *Python scripting* applied to test automation, data processing, and laboratory process optimization. System *test automation* (Cypress, stress, and volume testing).
 * **Lab Equipment:** *Oscilloscopes*, *Logic analyzers*, *Signal generators*, precision *Multimeters*, *programmable power supplies*, LCR meters, heat guns, and secondary injection test sets (Vebko AMT).
-* **PCB Design & Electronics:** *PCB design* using *EDA tools* (Altium Designer, EasyEDA), routing, *Analog, digital, and power electronics*, circuit simulation (*LTspice*), and rigorous component specification.
+* **PCBA Design & Electronics:** *Complex PCBA design* using *EDA tools* (Altium Designer, EasyEDA - familiarity with workflows transferable to Orcad/Mentor), routing, *Analog, digital, and power electronics*, circuit simulation (*LTspice*), and rigorous component specification.
 * **Firmware & Software:** *Embedded firmware* in C/C++, *Microcontrollers* (ESP32, STM32), **IoT devices** architecture, wireless communication (Bluetooth), *In-circuit emulators*, MATLAB/Simulink, Git/GitHub.
 
 ## Languages
@@ -30,7 +30,7 @@
 * Acted in direct international interface with the CEO and creator of the Turkish manufacturer Vebko, actively collaborating in the co-design of solutions, reverse engineering of failures, and proposing structural hardware and software improvements to enhance the test sets.
 * Developed **Python** scripts for the automation of internal laboratory processes and routines, including tools for automated data extraction from test reports, equipment event log processing, and optimization of the service order (OS) and inventory flow.
 * Fully managed the electronic testing laboratory, serving as the technical focal point in Brazil for advanced support, quality control, and issuance of technical reports.
-* Executed *electronic hardware testing*, *debugging*, and *troubleshoot circuit issues* at the component level in protection relays (GE, SEL, MiCOM) and Vebko embedded systems, using *oscilloscopes*, precision multimeters, and programmable power supplies.
+* Executed *electronic hardware testing*, *debugging*, and *troubleshoot circuit issues* at the component level in protection relays (GE, SEL, MiCOM) and Vebko embedded systems. *Evaluated electronic components* and supported *cross-functional teams* in technical affairs for continuous product improvement using *oscilloscopes*, precision multimeters, and programmable power supplies.
 * Developed and conducted *hardware validation plans* and simulations of critical operational conditions, including the validation of new communication features such as IEC 61850 Sample Values.
 * Performed field work in commissioning and advanced electrical testing: modernization of the Petrobras thermoelectric power plant in Ibirité-MG (March 2026) and execution of specialized tests at the GE plant in Taubaté (March 2026).
 
@@ -46,14 +46,14 @@
 *Senior Thesis (TCC) | Electrical Engineering*
 
 * R&D project focused on *Power electronics*, covering the complete hardware development cycle, from rigorous component selection to advanced simulations in **LTspice** and practical bench validation tests.
-* Executed *PCB design* and advanced routing using **Altium Designer**, with physical board fabrication via CNC router.
+* Executed *complex PCBA design* and advanced routing using **Altium Designer**, incorporating *EMI/EMC* considerations for high-current switching, with physical board fabrication via CNC router.
 * Developed *embedded firmware* programmed in C++ for **ESP32** microcontrollers, structuring the system with an **IoT devices** architecture by integrating the **Bluetooth** communication protocol for wireless remote control and real-time telemetry monitoring of motor rotation indices.
 * Performed bench testing, *debugging*, and *troubleshooting* of the printed circuit board using *oscilloscopes*, *signal generators*, and measuring instruments to validate torque and speed stability under wireless control.
 
 **TERA Robotics Team**
 *Electronic Projects Lead and Developer*
 
-* Prototyped, executed *PCB design*, and validated simple I/O boards integrated with microcontrollers for application in autonomous and remotely controlled robots.
+* Prototyped, executed *PCBA design*, and validated simple I/O boards integrated with microcontrollers for application in autonomous and remotely controlled robots.
 * Developed *embedded firmware* in C++ for vector control and motor drive of combat and sumo robots, implementing wireless communication via **Bluetooth** (fundamental concepts of **IoT devices**).
 * Utilized *In-circuit emulators* and laboratory tools for fault diagnosis and *debugging* of hardware and embedded software during robot stress testing.
 * Managed code versioning via GitHub and engaged in community outreach by teaching basic electronics classes in public schools.
