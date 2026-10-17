@@ -1,71 +1,75 @@
 # Enzo Luiz Fernandes
 
-**Location:** Guarulhos, SP, Brazil
-**LinkedIn:** [linkedin.com/in/enzolfernandes](https://linkedin.com/in/enzolfernandes) | GitHub: [github.com/enzolfernandes](https://github.com/enzolfernandes) | **E-mail:** enzolfernandes@proton.me | **Phone:** +55 17 997339126
+**Electrical Engineer | Electronic hardware testing | C/C++ and embedded systems**
 
-## Objective: Hardware Test Engineer - Electronics | Research and Development
+[LinkedIn](https://www.linkedin.com/in/enzolfernandes/) · [Technical portfolio](https://github.com/enzolfernandes)
 
-## Professional Summary
+## Profile
 
-**Electrical Engineer** with solid experience in *electronic hardware testing*, validation, and component-level maintenance. Extensive international experience in technical support and P&D, working in direct collaboration with foreign manufacturers to optimize products and develop automation scripts. Specialist in fault diagnosis (*diagnosing failures*, *debugging*, and *troubleshoot circuit issues*) using advanced laboratory instruments in critical energy environments. Strong background in *Research and Development* (R&D), combining the design of *Power electronics*, *PCBA design*, and *Embedded firmware* applied to the *product development* and validation of **IoT devices**, using *Python scripting* tools for test automation, calibration, and statistical data analysis.
+I am an electrical engineer with a degree from UNESP. I work with electronic hardware testing, component-level troubleshooting, bench instrumentation and laboratory operations. My academic and team projects include power electronics, PCB design and C/C++ firmware for ESP32.
 
-## Technical Skills (Hard Skills)
+## Technical experience
 
-* **Hardware Testing & Validation:** Development of *hardware validation* plans, *signal integrity*, *power loading* tests, *compliance testing*, *PCB design validation*, root cause analysis, and testing of advanced protocols (IEC 61850 Sample Values).
-* **Automation & Scripting:** *Python scripting* applied to test automation, data processing, and laboratory process optimization. System *test automation* (Cypress, stress, and volume testing).
-* **Lab Equipment:** *Oscilloscopes*, *Logic analyzers*, *Signal generators*, precision *Multimeters*, *programmable power supplies*, LCR meters, heat guns, and secondary injection test sets (Vebko AMT).
-* **PCBA Design & Electronics:** *PCBA design* using *EDA tools* (Altium Designer, EasyEDA - familiarity with workflows transferable to Orcad/Mentor), routing, *Analog, digital, and power electronics*, circuit simulation (*LTspice*), and rigorous component specification.
-* **Firmware & Software:** *Embedded firmware* in C/C++, *Microcontrollers* (ESP32, STM32), **IoT devices** architecture, wireless communication (Bluetooth), *In-circuit emulators*, MATLAB/Simulink, Git/GitHub.
+| Context | Tools and methods |
+| --- | --- |
+| Laboratory work | Oscilloscopes, multimeters, programmable supplies, hardware validation plans and fault investigation |
+| Embedded projects | C/C++, ESP32, PlatformIO/VS Code, FreeRTOS, PWM, ADC and Bluetooth |
+| Academic hardware project | Altium Designer, PCB design and LTspice simulation |
+| Scripting and collaboration | Python for reports and equipment logs; Git/GitHub |
+| Academic mathematics and control | MATLAB for plotting, signals, control simulation and applied mathematics |
 
-## Languages
+## Professional experience
 
-* **English:** Fluent (Full professional proficiency, direct interface with global engineering teams, R&D documentation drafting, *datasheet* interpretation, and reading of international standards).
-* **Spanish:** Basic (Listening comprehension and essential interpersonal communication).
+### TDM GRID — Assistente Técnico de Proteção e Controle
 
-## Professional Experience
+September 2024 – Present
 
-**TDM Serviços Técnicos em Transformadores Ltda (TDM GRID)**
-*Maintenance Analyst (Protection and Control) / Laboratory Manager | September 2024 – Present*
+- I organize the technical routine of an electronics laboratory, including support, quality control and technical reports for Vebko test equipment and protection relays.
+- I perform hardware tests and component-level troubleshooting using oscilloscopes, multimeters and programmable power supplies.
+- I prepare and conduct hardware validation plans and operational checks, including IEC 61850 Sample Values features.
+- I develop Python scripts to extract test-report data and process equipment logs, as well as routines related to service orders and inventory.
+- I collaborate with Vebko on fault investigation and proposed hardware and software improvements.
+- I participate in field commissioning and electrical tests, including activities in Ibirité-MG and at the GE factory in Taubaté.
 
-* Acted in direct international interface with the CEO and creator of the Turkish manufacturer Vebko, actively collaborating in the co-design of solutions, reverse engineering of failures, and proposing structural hardware and software improvements to enhance the test sets.
-* Developed **Python** scripts for the automation of internal laboratory processes and routines, including tools for automated data extraction from test reports, equipment event log processing, and optimization of the service order (OS) and inventory flow.
-* Fully managed the electronic testing laboratory, serving as the technical focal point in Brazil for advanced support, quality control, and issuance of technical reports.
-* Executed *electronic hardware testing*, *debugging*, and *troubleshoot circuit issues* at the component level in protection relays (GE, SEL, MiCOM) and Vebko embedded systems. *Evaluated electronic components* and supported *cross-functional teams* in technical affairs for continuous product improvement using *oscilloscopes*, precision multimeters, and programmable power supplies.
-* Developed and conducted *hardware validation plans* and simulations of critical operational conditions, including the validation of new communication features such as IEC 61850 Sample Values.
-* Performed field work in commissioning and advanced electrical testing: modernization of the Petrobras thermoelectric power plant in Ibirité-MG (March 2026) and execution of specialized tests at the GE plant in Taubaté (March 2026).
+### TDM GRID — Estagiário de Proteção e Controle
 
-**SQUADS**
-*System Quality Assurance Engineering Analyst | July 2020 – August 2021*
+January 2024 – September 2024
 
-* Implemented *test automation* for critical systems using Cypress and agile methodologies (BDD).
-* Executed fault diagnostics as well as stress and volume testing, performing data extraction and *statistical analysis* to generate detailed reports with Mochawesome.
+- I performed functional testing and maintenance of Vebko test equipment and protection relays, supporting fault identification and resolution.
+- I supported customers and participated in GE protection relay configuration and testing.
+- I carried out electrical protection tests using relay test equipment and checked equipment operation.
 
-## Engineering Projects (Research and Development)
+### SQUADS — Engenharia de Garantia de Qualidade do Sistema (internship)
 
-**Development of an Electronic Speed Controller (ESC) for BLDC Motors**
-*Senior Thesis (TCC) | Electrical Engineering*
+July 2020 – August 2021
 
-* R&D project focused on *Power electronics*, covering the complete hardware development cycle, from rigorous component selection to advanced simulations in **LTspice** and practical bench validation tests.
-* Executed *PCBA design* and advanced routing using **Altium Designer**, incorporating *EMI/EMC* considerations for high-current switching, with physical board fabrication via CNC router.
-* Developed *embedded firmware* programmed in C++ for **ESP32** microcontrollers, structuring the system with an **IoT devices** architecture by integrating the **Bluetooth** communication protocol for wireless remote control and real-time telemetry monitoring of motor rotation indices.
-* Performed bench testing, *debugging*, and *troubleshooting* of the printed circuit board using *oscilloscopes*, *signal generators*, and measuring instruments to validate torque and speed stability under wireless control.
+- I implemented automated software tests with Cypress and BDD practices.
+- I investigated failures and performed stress and volume tests, extracting and analyzing data to produce reports with Mochawesome.
 
-**TERA Robotics Team**
-*Electronic Projects Lead and Developer*
+## Selected engineering projects
 
-* Prototyped, executed *PCBA design*, and validated simple I/O boards integrated with microcontrollers for application in autonomous and remotely controlled robots.
-* Developed *embedded firmware* in C++ for vector control and motor drive of combat and sumo robots, implementing wireless communication via **Bluetooth** (fundamental concepts of **IoT devices**).
-* Utilized *In-circuit emulators* and laboratory tools for fault diagnosis and *debugging* of hardware and embedded software during robot stress testing.
-* Managed code versioning via GitHub and engaged in community outreach by teaching basic electronics classes in public schools.
+### ESP32 BLDC controller — final degree project, UNESP
+
+I developed and analyzed a controller prototype combining power-stage and PCB design in Altium, LTspice simulations and modular C/C++ firmware with PlatformIO/FreeRTOS, a hardware abstraction layer, ADC acquisition and serial/Wi-Fi telemetry. I carried out static bench tests and fault investigation, documenting the results in my published thesis.
+
+[Hardware, firmware and validation scope](https://github.com/enzolfernandes/esp32-bldc-esc) · [Published thesis](https://hdl.handle.net/11449/327581)
+
+### TERA robotics — team projects
+
+I contributed to ESP32/C++ firmware for locomotion, motor-stop commands on controller disconnection and weapon ESC control in CombatIO. My forks preserve the team history and link my individual commits. I also contributed to line-following and sumo robotics projects documented in the portfolio.
+
+[CombatIO contributions](https://github.com/enzolfernandes/combatIO) · [Locomotiva contributions](https://github.com/enzolfernandes/locomotiva)
 
 ## Education
 
-**Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP - Ilha Solteira)**
-*Bachelor’s Degree in Electrical Engineering (2026)*
+**UNESP — Universidade Estadual Paulista "Júlio de Mesquita Filho", Ilha Solteira**
 
-* Solid academic foundation with extensive practical use of *LTspice* for circuit analysis and *Signal generators* for laboratory instrumentation.
-* Participated as an Exhibitor at the XXXVI Scientific Initiation Congress (CIC).
-* Participated in the Winter Challenge Concórdia and Campus Party events (RCX-CPBR14/15).
+Bachelor's degree in Electrical Engineering · February 2018 – August 2026
 
-**Universidade Federal do ABC (UFABC) (2026)**
-*Special Student (Engineering Program)*
+I completed my degree on **28 August 2026** and participated in the TERA robotics team.
+
+## Languages
+
+Portuguese: native · English: fluent
+
+*Public text revised on 17 October 2026 using the verified candidate profile. The PDF retained in this repository is an earlier export and does not represent this revision.*
