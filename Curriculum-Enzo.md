@@ -72,4 +72,4 @@ I completed my degree on **28 August 2026** and participated in the TERA robotic
 
 Portuguese: native · English: fluent
 
-*Public text revised on 17 October 2026 using the verified candidate profile. The PDF retained in this repository is an earlier export and does not represent this revision.*
+*Updated on 18 October 2026.*
