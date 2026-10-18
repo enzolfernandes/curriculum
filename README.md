@@ -4,12 +4,13 @@ Sou engenheiro eletricista formado pela UNESP, com experiência em testes e diag
 
 ## Versão atual
 
-- [Currículo em Markdown](Curriculum-Enzo.md) — texto revisado em 17/10/2026, com cargos, formação e contribuições alinhados ao meu perfil profissional.
+- [Currículo em PDF](Curriculum-Enzo.pdf) — versão atualizada em 18/10/2026.
+- [Currículo em Markdown](Curriculum-Enzo.md) — texto revisado em 18/10/2026, com cargos, formação e contribuições alinhados ao meu perfil profissional.
 - [LinkedIn](https://www.linkedin.com/in/enzolfernandes/) — apresentação profissional.
 - [Portfólio técnico](https://github.com/enzolfernandes) — código, documentação e fontes dos projetos.
 - [Estilo CSS](estilo.css) — recurso de apresentação para exportações.
 
-O arquivo `Curriculum-Enzo.pdf` é uma exportação histórica de maio de 2026. Ele antecede esta revisão e deve ser regenerado a partir do Markdown antes de ser usado como currículo atual.
+Mantenho o PDF e o Markdown com o mesmo conteúdo revisado.
 
 ## Projetos com evidências
 
